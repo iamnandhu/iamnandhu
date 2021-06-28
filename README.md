@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamnandhu
 - 👀 I’m interested in anything related to compter.
 - 🌱 I’m currently learning B.tech Computer Science
-- 💞️ I’m looking to collaborate on Web Dev.and Machine learning projects
+- 💞️ Working on some ML projects
 - 📫 feel free to contact me @ nandhus1810@gmail.com
 
 <!---
